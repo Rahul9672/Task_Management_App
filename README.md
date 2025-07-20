@@ -17,6 +17,8 @@ A simple Task Manager built using **Spring Boot** with full **CRUD operations**,
 - PostgreSQL
 - Maven
 
+-  for post URL for CRUD -  http://localhost:8080/api/tasks
+
 
 ...
 
